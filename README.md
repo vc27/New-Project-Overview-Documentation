@@ -18,8 +18,19 @@ The purpose of is to allow the developer adequate time for possible preparations
 ### Tentative schedules
 In early stages project schedules are too fluid to be given a hard timeline. Preliminary timelines are assumed to be tentative or hopeful at best.
 
-### What information to send
+### Tentative information to send
 - Scope of the project
 - Preferred code stack: e.g. WordPress, Strait PHP and HTML, Other.
 - Tentative month or week the project is hopeful to start.
 - Tentative month or week the project is expected to be handed to the developer.
+
+### Needed Project Specs
+- Domain name
+- Server location
+- Email needs if any
+
+ChangeLog
+====================
+
+### 02.11.14 - 1.0.2
+- add "Needed Project Specs"
